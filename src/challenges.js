@@ -2,9 +2,8 @@
 function compareTrue(v1, v2) {
   if (v1 === true && v2 === true) {
     return true;
-  } else {
-    return false;
   }
+  return false;
 }
 console.log(compareTrue(true, false));
 
