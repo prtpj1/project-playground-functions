@@ -1,13 +1,37 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Projeto Lessons Learned
+<img src="https://github.com/prtpj1/playground-functions/blob/main/Playground.png" alt="Header" /><br>
+<hr/>
+No segundo projeto do curso de desenvolvimento web da Trybe, eu escrevi funções em JavaScript usando variáveis e tipos primitivos de acordo com os requisitos do projeto.<br><br>
+Abaixo a lista de requisitos (obrigatórios e opcinais/bônus)
+<br>
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+1. Crie uma função usando o operador &&
+2. Crie uma função que calcule a área de um triângulo<br>
+3. Crie uma função que divida a frase
+4. Crie uma função que use concatenação de strings
+5. Crie uma função que calcule a quantidade de pontos no futebol
+6. Crie uma função que calcule a repetição do maior número
+7. Crie uma função de Caça ao rato
+8. Crie uma função FizzBuzz
+10. Crie uma função de Lista de tecnologias
+11. Crie uma função de Número de telefone
+12. Crie uma função de Condição de existência de um triângulo
+13. Crie uma função de Boas Vindas ao Bar da Trybe!
+<br>
+<hr/>
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+## Tecnologias Utilizadas
+
+#### FrontEnd:
+
+* JavaScript
+
+<img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/JavaScript2.png" width="50" height="50" alt="HTML" />
+
+
+## Como rodar a aplicação?
+
+1. Clone o repositório: <br>
+`git@github.com:prtpj1/playground-functions.git` 
+
+<br>
