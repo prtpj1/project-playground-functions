@@ -1,4 +1,4 @@
-# Projeto Lessons Learned
+# 2º Projeto: Lessons Learned
 <img src="https://github.com/prtpj1/playground-functions/blob/main/Playground.png" alt="Header" /><br>
 <hr/>
 No segundo projeto do curso de desenvolvimento web da Trybe, eu escrevi funções em JavaScript usando variáveis e tipos primitivos de acordo com os requisitos do projeto.<br><br>
