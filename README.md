@@ -34,4 +34,12 @@ Abaixo a lista de requisitos (obrigatórios e opcinais/bônus)
 1. Clone o repositório: <br>
 `git@github.com:prtpj1/playground-functions.git` 
 
-<br>
+</br>
+</br>
+
+**OBS:**
+</br>
+*Na época que fiz este projeto eu ainda não conhecia os Conventional Commits. Somente a partir do módulo de BackEnd do curso da Trybe que aprendi e comecei a fazer commits melhores.
+</br>
+</br>
+Em breve estarei disponibilizando também os projetos dos módulos de **BackEnd** e **Ciência da Computação***
