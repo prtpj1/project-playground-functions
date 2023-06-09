@@ -27,14 +27,6 @@ Abaixo a lista de requisitos (obrigatórios e opcinais/bônus)
 * JavaScript
 
 <img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/JavaScript2.png" width="50" height="50" alt="HTML" />
-
-
-## Como rodar a aplicação?
-
-1. Clone o repositório: <br>
-`git@github.com:prtpj1/playground-functions.git` 
-
-</br>
 </br>
 
 **OBS:**
