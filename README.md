@@ -1,37 +1,96 @@
 # 2º Projeto: Playground Functions
-<img src="https://github.com/prtpj1/playground-functions/blob/main/Playground.png" alt="Header" /><br>
-<hr/>
-No segundo projeto do curso de desenvolvimento web da Trybe, eu escrevi funções em JavaScript usando variáveis e tipos primitivos de acordo com os requisitos do projeto.<br><br>
-Abaixo a lista de requisitos (obrigatórios e opcinais/bônus)
-<br>
+<p align="center">
+  <img src="https://github.com/prtpj1/playground-functions/blob/main/Playground.png?raw=true" alt="Header" />
+</p>
 
-1. Crie uma função usando o operador &&
-2. Crie uma função que calcule a área de um triângulo<br>
-3. Crie uma função que divida a frase
-4. Crie uma função que use concatenação de strings
-5. Crie uma função que calcule a quantidade de pontos no futebol
-6. Crie uma função que calcule a repetição do maior número
-7. Crie uma função de Caça ao rato
-8. Crie uma função FizzBuzz
-10. Crie uma função de Lista de tecnologias
-11. Crie uma função de Número de telefone
-12. Crie uma função de Condição de existência de um triângulo
-13. Crie uma função de Boas Vindas ao Bar da Trybe!
-<br>
-<hr/>
+---
+<p align="center">
+<a href="#project-description">Project Description</a> •
+<a href="#in-this-project-i-learned-and-put-into-practice">Learning</a> •
+<a href="#according-to-the-project-requirements-designated-by-trybe-i-learned-how-to">Requirements</a> •
+<a href="#stacks">Stacks</a>
+</p>
+
+---
+<p align="center">
+<a href="#descrição-do-projeto">Descrição do Projeto</a> •
+<a href="#nesse-projeto-aprendi-e-coloquei-em-prática">Aprendizado</a> •
+<a href="#de-acordo-com-os-requisitos-do-projeto-designados-pela-trybe-aprendi-como">Requisitos</a> •
+<a href="#tecnologias-utilizadas">Tecnologias Utilizadas</a>
+</p>
+
+---
+## Project Description
+In the second project of the Trybe web development course, I wrote JavaScript functions using variables and primitive types according to the project's requirements.
+
+## In this project, I learned and put into practice
+- Basic JavaScript functions using variables
+- Basic JavaScript functions using primitive types
+
+## According to the project requirements designated by Trybe, I learned how to
+- ✅ Create a function using the `&&` operator
+- ✅ Create a function to calculate the area of a triangle
+- ✅ Create a function to split a sentence
+- ✅ Create a function that concatenates strings
+- ✅ Create a function to calculate football points
+- ✅ Create a function that counts the repetition of the largest number
+- ✅ Create a "Cat and Mouse" function
+- ✅ Create a FizzBuzz function
+- ❌ Create a technology list function
+- ❌ Create a phone number function
+- ❌ Create a function to verify the existence of a triangle
+- ❌ Create a "Welcome to Trybe's Bar!" function
+
+_*Note: In some projects, a few requirements were left unfinished due to the fast-paced course, not because I couldn't do them. At the time, I just needed a bit more time.*_
+
+_*I haven't decided yet whether to keep it this way to show my progress during the learning journey or if I should complete the missing requirements from the course projects.*_
+
+_*Feedback is always welcome.*_
+
+## Stacks
+### FrontEnd 
+- JavaScript
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/JavaScript2.png?raw=true" width="50" height="50" alt="JavaScript Icon" /></a>
+
+_*Note:*_ <br>
+_*When I did this project, I didn't know about Conventional Commits. It was only in the BackEnd module of the Trybe course that I learned and started making better commits.*_ <br><br>
+_*If you have any difficulty with the instructions or want to give feedback, feel free to send me a message.*_
+
+---
+## Descrição do Projeto
+No segundo projeto do curso de desenvolvimento web da Trybe, eu escrevi funções em JavaScript usando variáveis e tipos primitivos de acordo com os requisitos do projeto.
+
+## Nesse projeto, aprendi e coloquei em prática:
+- Funções iniciais em JavaScript usando variáveis
+- Funções iniciais em JavaScript usando tipos primitivos
+
+## De acordo com os requisitos do projeto designados pela Trybe aprendi como:
+- ✅ Criar uma função usando o operador &&
+- ✅ Criar uma função que calcule a área de um triângulo<br>
+- ✅ Criar uma função que divida a frase
+- ✅ Criar uma função que use concatenação de strings
+- ✅ Criar uma função que calcule a quantidade de pontos no futebol
+- ✅ Criar uma função que calcule a repetição do maior número
+- ✅ Criar uma função de Caça ao rato
+- ✅ Criar uma função FizzBuzz
+- ❌ Criar uma função de Lista de tecnologias
+- ❌ Criar uma função de Número de telefone
+- ❌ Criar uma função de Condição de existência de um triângulo
+- ❌ Criar uma função de Boas Vindas ao Bar da Trybe!
+
+_*OBS: Em alguns projetos alguns requisitos não foram feitos devido a dinamica acelerada do curso e não por eu não saber como fazê-los. Na época eu apenas precisaria de um pouco mais de tempo.*_
+
+_*Ainda não decidi se é melhor deixar desta forma para demonstrar o meu progresso durante meu aprendizado ou se seria melhor completar os requisitos que ficaram faltando nos projetos do curso.*_
+
+_*Feedbacks são bem vindos.*_
 
 ## Tecnologias Utilizadas
-
 #### FrontEnd:
+- JavaScript
 
-* JavaScript
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/JavaScript2.png?raw=true" width="50" height="50" alt="JavaScript Icon" /></a>
 
-<img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/JavaScript2.png" width="50" height="50" alt="HTML" />
-</br>
-
-**OBS:**
-</br>
-*Na época que fiz este projeto eu ainda não conhecia os Conventional Commits. Somente a partir do módulo de BackEnd do curso da Trybe que aprendi e comecei a fazer commits melhores.
-</br>
-</br>
-Em breve estarei disponibilizando também os projetos dos módulos de **BackEnd** e **Ciência da Computação***
+_*OBS:*_ <br>
+_*Na época que fiz este projeto eu ainda não conhecia os Conventional Commits. Somente a partir do módulo de BackEnd do curso da Trybe que aprendi e comecei a fazer commits melhores.*_ <br><br>
+_*Se tiver alguma dificuldade com as instruções e quiser dar um feedback me mande uma mensagem*_
