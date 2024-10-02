@@ -24,22 +24,31 @@
 In the second project of the Trybe web development course, I wrote JavaScript functions using variables and primitive types according to the project's requirements.
 
 ## In this project, I learned and put into practice
-- Basic JavaScript functions using variables
-- Basic JavaScript functions using primitive types
+- Write JavaScript code using variables and primitive types
+- Use language concepts like dynamic typing and logical/arithmetic/assignment operators in your code
+- Create code that uses conditional structures, such as `if/else`
+- Manipulate `arrays (lists)`
+- Use the `for` loop
+- Break down big problems into smaller ones
+- Apply programming logic to problem-solving
+- Manipulate objects
+- Use the `for/in` loop
+- Use functions to organize and structure your code
+
 
 ## According to the project requirements designated by Trybe, I learned how to
 - ✅ Create a function using the `&&` operator
-- ✅ Create a function to calculate the area of a triangle
-- ✅ Create a function to split a sentence
-- ✅ Create a function that concatenates strings
-- ✅ Create a function to calculate football points
+- ✅ Create a function that calculates the area of a triangle
+- ✅ Create a function that splits a sentence
+- ✅ Create a function that concatenates `strings`
+- ✅ Create a function that calculates football points
 - ✅ Create a function that counts the repetition of the largest number
-- ✅ Create a "Cat and Mouse" function
-- ✅ Create a FizzBuzz function
-- ❌ Create a technology list function
-- ❌ Create a phone number function
-- ❌ Create a function to verify the existence of a triangle
-- ❌ Create a "Welcome to Trybe's Bar!" function
+- ✅ Create a "Mouse Hunt" function
+- ✅ Create a `FizzBuzz` function
+- ❌ Create a function for the List of technologies
+- ❌ Create a function for the Phone number
+- ❌ Create a function to check the condition of triangle existence
+- ❌ Create a Welcome to the Trybe Bar! function
 
 _*Note: In some projects, a few requirements were left unfinished due to the fast-paced course, not because I couldn't do them. At the time, I just needed a bit more time.*_
 
@@ -61,19 +70,27 @@ _*If you have any difficulty with the instructions or want to give feedback, fee
 ## Descrição do Projeto
 No segundo projeto do curso de desenvolvimento web da Trybe, eu escrevi funções em JavaScript usando variáveis e tipos primitivos de acordo com os requisitos do projeto.
 
-## Nesse projeto, aprendi e coloquei em prática:
-- Funções iniciais em JavaScript usando variáveis
-- Funções iniciais em JavaScript usando tipos primitivos
+## Nesse projeto, aprendi e coloquei em prática
+- Escrever códigos em JavaScript que usam variáveis e tipos primitivos
+- Utilizar conceitos da linguagem como a tipagem dinâmica e operadores lógicos/aritméticos/de atribuição no seu código
+- Criar códigos que usam estruturas condicionais, como o `if/else`
+- Manipular `arrays(listas)`
+- Utilizar o comando `for`
+- Quebrar grandes problemas em pequenos
+- Utilizar a lógica de programação na resolução de problemas
+- Manipular objetos
+- Utilizar o comando `for/in`
+- Utilizar funções para organizar e estruturar o seu código
 
-## De acordo com os requisitos do projeto designados pela Trybe aprendi como:
-- ✅ Criar uma função usando o operador &&
-- ✅ Criar uma função que calcule a área de um triângulo<br>
+## De acordo com os requisitos do projeto designados pela Trybe aprendi como
+- ✅ Criar uma função usando o operador `&&`
+- ✅ Criar uma função que calcule a área de um triângulo
 - ✅ Criar uma função que divida a frase
-- ✅ Criar uma função que use concatenação de strings
+- ✅ Criar uma função que use concatenação de `strings`
 - ✅ Criar uma função que calcule a quantidade de pontos no futebol
 - ✅ Criar uma função que calcule a repetição do maior número
 - ✅ Criar uma função de Caça ao rato
-- ✅ Criar uma função FizzBuzz
+- ✅ Criar uma função `FizzBuzz`
 - ❌ Criar uma função de Lista de tecnologias
 - ❌ Criar uma função de Número de telefone
 - ❌ Criar uma função de Condição de existência de um triângulo
